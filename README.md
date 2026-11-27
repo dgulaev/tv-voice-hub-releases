@@ -6,6 +6,8 @@
 
 В этом репозитории — **публичные APK** и [`version.json`](./version.json) для обновлений из приложения.
 
+[English README](./README.en.md)
+
 ---
 
 ## Скачать
